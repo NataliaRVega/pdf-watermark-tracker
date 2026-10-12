@@ -1,0 +1,6 @@
+customtkinter
+pypdf
+reportlab
+pillow
+pymupdf
+pytest
